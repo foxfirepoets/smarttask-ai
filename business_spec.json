@@ -1,0 +1,23 @@
+{
+  "business_id": "smarttask-ai",
+  "name": "SmartTask AI",
+  "elevator_pitch": " for Remote teams and startups (10-100 employees)",
+  "target_user": "Remote teams and startups (10-100 employees)",
+  "features_in_v1": [
+    "User authentication and accounts",
+    "Core product functionality",
+    "Basic UI/UX",
+    "Data persistence"
+  ],
+  "features_for_backlog": [
+    "Advanced analytics",
+    "Team collaboration",
+    "API access"
+  ],
+  "tech_constraints": {
+    "stack": "Next.js 14 + Fastify + PostgreSQL",
+    "cost_ceiling_usd": 100,
+    "timebox_hours": 8
+  },
+  "business_model": ""
+}

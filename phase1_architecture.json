@@ -1,0 +1,27 @@
+{
+  "architecture_summary": "2 entities, 2 APIs, 3 pages",
+  "core_entities": [
+    "User",
+    "Resource"
+  ],
+  "key_apis": [
+    "POST /api/auth/login",
+    "GET /api/resources"
+  ],
+  "key_pages": [
+    "/",
+    "/login",
+    "/dashboard"
+  ],
+  "file_plan": {
+    "docs/architecture.md": "\u2713 389 chars",
+    "docs/api.md": "\u2713 84 chars",
+    "db/schema.sql": "\u2713 264 chars",
+    "db/migrations/001_initial.sql": "\u2713 264 chars",
+    ".env.example": "\u2713 117 chars",
+    "README.md": "\u2713 251 chars",
+    "package.json": "\u2713 245 chars",
+    "frontend/pages/index.tsx": "\u2713 41 chars",
+    "backend/server.ts": "\u2713 41 chars"
+  }
+}
